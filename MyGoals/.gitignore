@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.DS_Store/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# OpenClaw
+.github-config.json
+
+# Temp
+*.tmp
+temp/
+
+# Builds
+dist/
+build/
+.next/
+out/
